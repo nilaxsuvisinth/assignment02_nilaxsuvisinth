@@ -10,6 +10,10 @@
     position: fixed;
 height:9%
 }
+.three{
+    position: fixed;
+    padding-top: 2%;
+}
 .navname{
     font-weight: bold;
     color: rgb(152, 6, 99);
@@ -23,6 +27,7 @@ height:9%
 .header{
     background-color: rgb(234, 234, 234);
     margin-top: 12px;
+    position: fixed;
 }
 .container {
     display: flex;
